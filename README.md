@@ -21,3 +21,5 @@ A tool to help you de-compile, edit, and re-compile APKs.
 ## Current Release:
 
 [Please go to releases page to get the latest release](https://github.com/yaseralnajjar/android-cracker-kit/releases)
+
+* You might want to **disable your anti-virus** because most anti-viruses detect this as a harmful tool, it is not... **USE AT IT YOUR RISK**.
