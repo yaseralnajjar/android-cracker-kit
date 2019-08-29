@@ -17,3 +17,7 @@ A tool to help you de-compile, edit, and re-compile APKs.
 - Install apktool and adb easily.
 - Shell integration with explorer.
 - Auto generate output folder name.
+
+## Current Release:
+
+[Please go to releases page to get the latest release](https://github.com/yaseralnajjar/android-cracker-kit/releases)
